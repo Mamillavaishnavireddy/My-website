@@ -198,7 +198,7 @@ const bigProjects = {
   projects: [
     {
       
-      projectName: "Airbnb Price Prediction",
+      projectName: "Placement Management Portal",
       projectDesc: "Developed various predictive models that can accurately estimate the prices of the Airbnb listings in New York city with the help of other atributes in our data set.",
       
     },
